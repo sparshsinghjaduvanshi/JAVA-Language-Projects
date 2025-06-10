@@ -1,0 +1,18 @@
+{
+    "totalAccounts": 3,
+    "ACCT2": {
+        "holderName": "shiva",
+        "pin": "1234",
+        "balance": 0
+    },
+    "ACCT1": {
+        "holderName": "umesh kumar",
+        "pin": "2222",
+        "balance": 27700
+    },
+    "ACCT0": {
+        "holderName": "sparsh singh",
+        "pin": "1111",
+        "balance": 4300
+    }
+}
