@@ -1,5 +1,4 @@
-```markdown
-## 🏦 Bank Management System - Java Project
+# 🏦 Bank Management System - Java Project
 
 A console-based **Bank Management System** built in Java using Object-Oriented Programming principles and JSON file handling. This project simulates the core operations of a bank for both users and administrators.
 
@@ -43,7 +42,7 @@ BankManagementSystem/
 ├── accounts.json            # JSON file that stores account data
 └── README.md
 
-````
+
 
 ---
 
